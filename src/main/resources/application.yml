@@ -1,0 +1,6 @@
+logging.level:
+  com.interview.apple: DEBUG
+
+spring.jpa.hibernate.ddl-auto: create-drop
+
+springfox.documentation.swagger-ui.base-url: /documentation
